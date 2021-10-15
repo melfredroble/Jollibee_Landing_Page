@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap");
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.main-content {
+  min-height: 70vh;
+}
+
+.content-btn {
+  border-radius: 30px;
+}
+
+.content-btn:hover {
+  background-color: transparent;
+  color: #fff;
+  transition: 0.3s ease-in-out;
+}
+
+.carousel-control-prev-icon {
+  border: 1px solid #fff;
+  height: 40px !important;
+}
+
+.carousel-control-next-icon {
+  border: 1px solid #fff;
+  height: 40px !important;
+}
+
+/* .carousel-indicators button {
+  height: 15px !important;
+  width: 20px !important;
+  border-radius: 100% !important;
+} */
